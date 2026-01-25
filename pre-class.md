@@ -21,7 +21,7 @@ In advanced SQL, we ask analytical questions: "Show me the top 10% of clients ba
 
 ### **Self-Study Task:**
 
-1. Open DBeaver.  
+1. Open DbGate.  
 2. Create a new "DuckDB" connection.  
 3. Point it to the unit-1-5.db file.  
 4. Run: SELECT * FROM client LIMIT 5; to verify connection.
